@@ -2,15 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:eeaeca,100:95bbe9&text=Hi!%20I'm%20Ruthie&section=header&textBg=false&fontColor=fff" alt="Waving Text">
   <img src="https://i.ibb.co/SXCkm4K/image.jpg" alt="Description of the image" align="right" width="200px" style="margin-left: 120vh;"/>
   
-  ## 📝📝📝
+📝📝📝
   
   Studying both Management and Computer Engineering. 
 
-  ## 🇵🇱🇩🇪🇬🇧
+🇵🇱🇩🇪🇬🇧
 
   In love with learning languages and travelling.
 
-  ## 💻💡💭
+💻💡💭
 
 Can't stop at one thing, so you can find ✨ everything ✨ here!
 
