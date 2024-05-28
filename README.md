@@ -48,5 +48,5 @@ Can't stop at one thing, so you can find ✨ everything ✨ here!
 </span>
 
 This page wouldn't exist without help of:
- - 
+ - https://github.com/tandpfun/skill-icons
 
