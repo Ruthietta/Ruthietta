@@ -13,8 +13,6 @@ Can't stop at one thing, so you can find ✨ everything ✨ here!
 
   <br clear="left"/>
   
-<span align="center" width="300px">
-
 &nbsp;
   ![](https://komarev.com/ghpvc/?username=Ruthietta&base=100&abbreviated=true&color=ff69b4&label=Have+checked+me+out!&style=flat-square)
   
@@ -36,17 +34,30 @@ Can't stop at one thing, so you can find ✨ everything ✨ here!
 
 ### Projects in progress!
 
+<span align="left">
+  
 - [ ] Algorithm wiki repository
 - [ ] Pursuing both of my degrees
-- [ ] Creating this profile readme!
+- [x] Creating this profile readme!
+
+</span>
 
 ---
 
 ### Contact me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urziemska/)
 
-</span>
+---
 
-This page wouldn't exist without help of:
- - https://github.com/tandpfun/skill-icons
+### Big thank you for those creators!
 
+<sup> without you this page wouldn't exist! </sup>
+
+[![Capsule render - kyechan99](https://img.shields.io/badge/Capsule_render-kyechan99-ff69b4?style=for-the-badge)](https://github.com/kyechan99/capsule-render)
+[![Pixel Art - perchance](https://img.shields.io/badge/Pixel_Art-perchance-ff69b4?style=for-the-badge)](https://perchance.org/ai-pixel-art-generator)
+[![Profile Views Counter - antonkomarev](https://img.shields.io/badge/Profile_Views_Counter-antonkomarev-ff69b4?style=for-the-badge)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Streak stats - DenverCoder1](https://img.shields.io/badge/Streak_stats-DenverCoder1-ff69b4?style=for-the-badge)](https://github.com/denvercoder1/github-readme-streak-stats)
+[![Skill Icons - tandpfun](https://img.shields.io/badge/Skill_Icons-tandpfun-ff69b4?style=for-the-badge)](https://github.com/tandpfun/skill-icons)
+[![Badge generator - Michael Currin](https://img.shields.io/badge/Badge_generator-Michael_Currin-ff69b4?style=for-the-badge)](https://github.com/MichaelCurrin/badge-generator)
+
+<sub>Let's not gatekeep our wonderful creators :)</sub>
